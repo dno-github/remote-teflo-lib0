@@ -2,7 +2,9 @@
 # -*- coding: utf-8 -*-
 ---
 library:
-  - "git@github.com:JunqiZhang0/remote-teflo-lib.git   as   remote3"
+  - lib_url: "git@github.com:JunqiZhang0/remote-teflo-lib.git"       
+    alias_name: remote3
+
 
 include:
   - remote3/sdf.yml
