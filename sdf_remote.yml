@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 ---
 library:
-  - lib_url: "git@github.com:JunqiZhang0/remote-teflo-lib.git"       
+  - lib_url: "https://github.com/dno-github/remote-teflo-lib.git"       
     alias_name: remote3
 
 
